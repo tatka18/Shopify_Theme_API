@@ -1,0 +1,7 @@
+.addToCartNotification {
+    position: fixed;
+    bottom: 30%;
+    left: auto;
+    opacity: 95%;
+    color: rgb(3, 61, 21);
+}
